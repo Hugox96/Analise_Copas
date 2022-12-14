@@ -41,6 +41,11 @@ O projeto foi inspirado no seguinte tutorial: https://www.youtube.com/watch?v=pa
   <img src="gráfico1.gif" alt="animated"/>
 </p>	
 
+2º Gráfico: Seleções que mais chegaram a final até 2014
+
+<p align="center">
+  <img src="gráfico1.gif" alt="animated"/>
+</p>
 
 
 
