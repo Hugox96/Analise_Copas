@@ -17,9 +17,9 @@ Neste projeto você irá encontrar três gráficos animados que nos dizem um pou
 
 O processo de análise foi baseado em 3 principios:
 
-* 1º Obtenção dos dados
-* 2º Filtragem dos dados e criação dos dataframes
-* 3º Criação dos gráficos animados
+* 1º Obtenção dos dados na plataforma Kaggle
+* 2º Filtragem dos dados e criação dos dataframes para realizar os gráficos
+* 3º Criação dos gráficos animados na plataforma Flourish
 
 O dados com a base de dados da copa foram obtidos no site Kaggle: https://www.kaggle.com/datasets/abecklas/fifa-world-cup
 
@@ -35,11 +35,12 @@ O projeto foi inspirado no seguinte tutorial: https://www.youtube.com/watch?v=pa
 	
 ## :ballot_box_with_check: Gráficos
 
-![gráfico1](gráfico1.gif)
+1º Gráfico: Saldo de gols por edição até 2018
 
 <p align="center">
   <img src="gráfico1.gif" alt="animated"/>
 </p>	
+
 
 
 
