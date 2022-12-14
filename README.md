@@ -34,10 +34,15 @@ O projeto foi inspirado no seguinte tutorial: https://www.youtube.com/watch?v=pa
 * Excel 	
 	
 ## :ballot_box_with_check: Gráficos
-	
+
+![gráfico1](gráfico1.gif)
+
 <p align="center">
-![Grafico_Animado__2__AdobeExpress](https://user-images.githubusercontent.com/62472486/207702177-a6c57ff7-c7e5-4a17-8a79-f8cac3fb824a.gif)
-<p>	
+  <img src="gráfico1.gif" alt="animated"/>
+</p>	
+
+
+
 
 
  O site está disponível por este link: https://hugox96.github.io/Endeavor-Portfolio/
