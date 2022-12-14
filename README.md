@@ -1,6 +1,6 @@
-# Analise_Copas
+# Analise das Copas com Python
 
-  Meu primeiro portfólio desenvolvido com Html, Css e Javascript para aprendizado na busca de melhorar minhas habilidades e futuramente poder oferecer serviços de web design.
+## Minhas redes sociais:
 
 <p align="center">
 	<a  href="https://github.com/Hugox96/">
@@ -8,10 +8,10 @@
 </p>	
 
 
+ ## :memo: Descrição e objetivo:
+ 
+Neste projeto você irá encontrar três gráficos animados que nos dizem um pouco da história das copas do mundo ao longos dos anos. Meu objetivo com este projeto é aprimorar meus conhecimentos de análise de dados com python utilizando a biblioteca pandas unindo com meu amor pelo futebol e com a intenção de criar algo criativo e informativo.
 
-<h4 align="center"> 
-	 Concluído 🚀 
-</h4>
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
