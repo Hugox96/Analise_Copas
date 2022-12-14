@@ -38,7 +38,7 @@ O projeto foi inspirado no seguinte tutorial: https://www.youtube.com/watch?v=pa
 <b> 1º Gráfico: Saldo de gols por edição até 2018 </b>
 
 <p align="center">
-  <img src="gráfico1.gif" alt="animated"/>
+  <img src="gráfico.gif" alt="animated"/>
 </p>	
 
 <b> 2º Gráfico: Seleções que mais chegaram a final até 2014 </b>
