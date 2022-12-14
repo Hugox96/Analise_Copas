@@ -24,8 +24,13 @@ Neste projeto você irá encontrar três gráficos animados que nos dizem um pou
 
 ## 💻 Sobre o projeto
 
-Meu primeiro projeto completo envolvendo as ferramentas  Html, Css, Javascript e JQuery. A intenção é solidificar o aprendizado destas ferramentas e desenvolver cada vez mais 
-projetos para realizar serviços freelancers de web design a pequenos empreendedores e negócios.
+O processo de análise foi baseado em 3 principios:
+
+* 1º Obtenção dos dataframes 
+* 2º Filtragem dos dados e criação dos dataframes
+* 3º Criação dos gráficos animados
+
+O dados com a base de dados da copa foram obtidos no site Kaggle: https://www.kaggle.com/datasets/abecklas/fifa-world-cup
 
 O projeto foi inspirado no seguinte tutorial: https://www.goingtointernet.com/2020/04/create-personal-website.html
 
