@@ -1,4 +1,4 @@
-# Analise das Copas com Python
+# Análise das Copas com Python
 
 ![banner (1)](https://user-images.githubusercontent.com/62472486/207737917-12247897-9211-430e-81ff-2584104165ad.png)
 
