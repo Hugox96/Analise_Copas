@@ -1,5 +1,10 @@
 # Analise das Copas com Python
 
+![banner (1)](https://user-images.githubusercontent.com/62472486/207737917-12247897-9211-430e-81ff-2584104165ad.png)
+
+
+
+
 ## Minhas redes sociais:
 
 <p align="center">
@@ -38,7 +43,7 @@ O projeto foi inspirado no seguinte tutorial: https://www.youtube.com/watch?v=pa
 <b> 1º Gráfico: Saldo de gols por edição até 2018 </b>
 
 <p align="center">
-  <img src="gráfico.gif" alt="animated"/>
+  <img src="grafico1.gif" alt="animated"/>
 </p>	
 
 <b> 2º Gráfico: Seleções que mais chegaram a final até 2014 </b>
@@ -46,10 +51,3 @@ O projeto foi inspirado no seguinte tutorial: https://www.youtube.com/watch?v=pa
 <p align="center">
   <img src="grafico2.gif" alt="animated"/>
 </p>
-
-
-
-
-
- O site está disponível por este link: https://hugox96.github.io/Endeavor-Portfolio/
-
