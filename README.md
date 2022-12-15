@@ -51,3 +51,9 @@ O projeto foi inspirado no seguinte tutorial: https://www.youtube.com/watch?v=pa
 <p align="center">
   <img src="grafico2.gif" alt="animated"/>
 </p>
+
+<b> 3º Gráfico: Seleções que mais sediaram a copa até 2014 </b>
+
+<p align="center">
+  <img src="grafico3.gif" alt="animated"/>
+</p>
